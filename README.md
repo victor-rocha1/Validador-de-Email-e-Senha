@@ -1,2 +1,16 @@
-# Validador-de-Email-e-Senha
- Formulário Validador de E-mail e Senha Este repositório contém um formulário simples desenvolvido utilizando HTML, CSS e JavaScript para validar e-mails e senhas.  Visão Geral O objetivo deste projeto é demonstrar como criar um formulário básico que realiza validações de e-mail e senha utilizando linguagens front-end comuns: HTML, CSS e JavaScript.  Funcionalidades Validação de e-mail: Verifica se o e-mail inserido possui um formato válido. Validação de senha: Verifica se a senha atende a critérios mínimos de segurança. Tecnologias Utilizadas HTML: Estruturação do formulário e elementos. CSS: Estilização e apresentação visual do formulário. JavaScript: Lógica de validação e interação com o usuário. Como Utilizar Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git Abra o arquivo index.html em seu navegador. Estrutura de Arquivos index.html: Contém a estrutura do formulário HTML. style.css: Arquivo de estilos para o formulário. script.js: Código JavaScript para validação do formulário. Como Contribuir Sinta-se à vontade para abrir issues relatando bugs ou sugerindo melhorias. Pull requests são bem-vindos e serão revisados.  Autor Seu Nome - Formulário Validador de E-mail e Senha Este repositório contém um formulário simples desenvolvido utilizando HTML, CSS e JavaScript para validar e-mails e senhas.  Visão Geral O objetivo deste projeto é demonstrar como criar um formulário básico que realiza validações de e-mail e senha utilizando linguagens front-end comuns: HTML, CSS e JavaScript.  Funcionalidades Validação de e-mail: Verifica se o e-mail inserido possui um formato válido. Validação de senha: Verifica se a senha atende a critérios mínimos de segurança. Tecnologias Utilizadas HTML: Estruturação do formulário e elementos. CSS: Estilização e apresentação visual do formulário. JavaScript: Lógica de validação e interação com o usuário. Como Utilizar Clone o repositório: git clone https://github.com/seu-usuario/Validador-de-Email-e-Senha.git Abra o arquivo index.html em seu navegador. Estrutura de Arquivos index.html: Contém a estrutura do formulário HTML. style.css: Arquivo de estilos para o formulário. script.js: Código JavaScript para validação do formulário. Como Contribuir Sinta-se à vontade para abrir issues relatando bugs ou sugerindo melhorias. Pull requests são bem-vindos e serão revisados.  Autor Seu Nome - Seu Site ou LinkedIn  Licença Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo LICENSE para mais detalhes.  Licença Este projeto está sob a licença [Mit Licence]. Consulte o arquivo LICENSE para mais detalhes.
+
+# Formulário de Validação de E-mail e Senha
+Este é um projeto simples que apresenta um formulário básico desenvolvido com HTML, CSS e JavaScript para validar e-mails e senhas.
+
+## Funcionalidades
+Validação de e-mail para verificar se o formato inserido é válido.
+Validação de senha para garantir critérios mínimos de segurança.
+## Tecnologias Utilizadas
+HTML: Estruturação do formulário.
+CSS: Estilização básica para uma apresentação visual agradável.
+JavaScript: Lógica de validação dos campos e interações com o usuário.
+## Como Utilizar
+Clone ou baixe o repositório.
+Abra o arquivo index.html em um navegador web.
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
